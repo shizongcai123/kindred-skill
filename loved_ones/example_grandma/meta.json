@@ -1,0 +1,17 @@
+{
+  "name": "奶奶",
+  "slug": "example_grandma",
+  "relationship": "奶奶",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z",
+  "version": "v1",
+  "profile": {
+    "age": "78岁",
+    "gender": "女",
+    "dialect": "山东方言",
+    "occupation": "退休小学教师"
+  },
+  "impression": "特别爱唠叨，每次打电话都问吃了没，嘴上总说不用惦记她，但每次挂电话前都会说'早点回来啊'。做的红烧肉是全世界最好吃的。脾气倔，但从来没对我发过火。",
+  "corrections_count": 0,
+  "memory_count": 12
+}
